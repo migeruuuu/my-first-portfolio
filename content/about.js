@@ -1,20 +1,20 @@
 // EDIT THIS FILE: Change text in quotes. To add an item, copy an existing item and keep its commas and brackets.
 
 export const details = [
-    ['Full name', 'Hanni Bunny'],
-    ['Background', 'Grew up in a burrow full of sketchbooks, then studied Interactive Design at Cloud City University.'],
-    ['Personal interests', 'Pixel art, baking carrot cake, collecting sticker sheets, night-sky photography.'],
-    ['Professional interests', 'Design systems, accessibility, game-inspired interfaces and motion design.'],
-    ['Learning journey', 'Started with paper wireframes, moved to Figma, and now learns front-end basics and AWS fundamentals with the AWS Learning Club.'],
-    ['Career goals', 'Lead design on products that make people feel welcome on their first day.'],
-    ['Mission', 'Every first day should feel like a hello, not a hurdle.'],
+    ['Full name', 'Miguel Antonio D. Sedano'],
+    ['Background', 'BSIT student at San Beda University (2025 - 2029). STEM graduate With Honors and Academic Excellence Awardee from College of San Benildo - Rizal.'],
+    ['Personal interests', 'Esports, AI tools, hackathons, and building side projects with friends.'],
+    ['Professional interests', 'AI/ML engineering, full-stack development, digital marketing, and community partnerships.'],
+    ['Learning journey', 'Started in social media marketing and sales research, then moved into building. Now an AI Intern at FlyRank and holder of 9 Anthropic AI microcertifications.'],
+    ['Career goals', 'Become a Full Stack AI/ML Engineer who ships products that solve real problems.'],
+    ['Mission', 'Build tools and communities that help Filipino students and founders grow.'],
   ];
 
 export const highlights = [
-    ['Current focus', 'A design system for cloud learners'],
-    ['Main interest', 'Playful, accessible interfaces'],
-    ['Learning goal', 'AWS cloud fundamentals'],
-    ['Professional aspiration', 'Senior Product Designer'],
+    ['Current focus', 'FlyRank AI Internship - Full Stack AI/ML roadmap, Professional Networking and Career Development on the I.T Industry'],
+    ['Main interest', 'AI-powered products and automation'],
+    ['Learning goal', 'Cloud and AWS cloud fundamentals'],
+    ['Professional aspiration', 'Founder and AI/ML Engineer'],
   ];
 
-export const aboutSection = { title: 'About Me', subtitle: 'Designer by day, pixel collector by night.' };
+export const aboutSection = { title: 'About Me', subtitle: 'Founder of BuildAuthorityPH, VP for External Affairs at BITS.' };
